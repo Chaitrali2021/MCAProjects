@@ -1,1 +1,1 @@
-# MCAProjects
+# Doctor Appointment Management System
